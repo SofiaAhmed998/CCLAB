@@ -1,0 +1,7 @@
+C:\Users\Javeria\source\repos\Lab Task1\Lab Task1\bin\Debug\Lab Task1.exe.config
+C:\Users\Javeria\source\repos\Lab Task1\Lab Task1\bin\Debug\Lab Task1.exe
+C:\Users\Javeria\source\repos\Lab Task1\Lab Task1\bin\Debug\Lab Task1.pdb
+C:\Users\Javeria\source\repos\Lab Task1\Lab Task1\obj\Debug\Lab Task1.csprojAssemblyReference.cache
+C:\Users\Javeria\source\repos\Lab Task1\Lab Task1\obj\Debug\Lab Task1.csproj.CoreCompileInputs.cache
+C:\Users\Javeria\source\repos\Lab Task1\Lab Task1\obj\Debug\Lab Task1.exe
+C:\Users\Javeria\source\repos\Lab Task1\Lab Task1\obj\Debug\Lab Task1.pdb

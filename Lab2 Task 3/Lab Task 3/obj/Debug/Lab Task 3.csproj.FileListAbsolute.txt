@@ -1,0 +1,9 @@
+C:\Users\Javeria\source\repos\Lab Task 3\Lab Task 3\bin\Debug\Lab Task 3.exe.config
+C:\Users\Javeria\source\repos\Lab Task 3\Lab Task 3\bin\Debug\Lab Task 3.exe
+C:\Users\Javeria\source\repos\Lab Task 3\Lab Task 3\bin\Debug\Lab Task 3.pdb
+C:\Users\Javeria\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Form1.resources
+C:\Users\Javeria\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Properties.Resources.resources
+C:\Users\Javeria\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.csproj.GenerateResource.cache
+C:\Users\Javeria\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.csproj.CoreCompileInputs.cache
+C:\Users\Javeria\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.exe
+C:\Users\Javeria\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.pdb

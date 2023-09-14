@@ -1,0 +1,5 @@
+C:\Users\Javeria\source\repos\Lab Task 4\Lab Task 4\obj\Debug\Lab_Task_4.Form1.resources
+C:\Users\Javeria\source\repos\Lab Task 4\Lab Task 4\obj\Debug\Lab_Task_4.Properties.Resources.resources
+C:\Users\Javeria\source\repos\Lab Task 4\Lab Task 4\obj\Debug\Lab Task 4.csproj.GenerateResource.cache
+C:\Users\Javeria\source\repos\Lab Task 4\Lab Task 4\obj\Debug\Lab Task 4.csproj.CoreCompileInputs.cache
+C:\Users\Javeria\source\repos\Lab Task 4\Lab Task 4\obj\Debug\Lab Task 4.csprojAssemblyReference.cache
