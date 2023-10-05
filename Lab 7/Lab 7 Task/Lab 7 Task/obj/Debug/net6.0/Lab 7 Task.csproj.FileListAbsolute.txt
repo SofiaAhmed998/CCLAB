@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\bin\Debug\net6.0\Lab 7 Task.exe
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\bin\Debug\net6.0\Lab 7 Task.deps.json
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\bin\Debug\net6.0\Lab 7 Task.runtimeconfig.json
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\bin\Debug\net6.0\Lab 7 Task.dll
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\bin\Debug\net6.0\Lab 7 Task.pdb
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\obj\Debug\net6.0\Lab 7 Task.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\obj\Debug\net6.0\Lab 7 Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\obj\Debug\net6.0\Lab 7 Task.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\obj\Debug\net6.0\Lab 7 Task.AssemblyInfo.cs
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\obj\Debug\net6.0\Lab 7 Task.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\obj\Debug\net6.0\Lab 7 Task.dll
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\obj\Debug\net6.0\refint\Lab 7 Task.dll
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\obj\Debug\net6.0\Lab 7 Task.pdb
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\obj\Debug\net6.0\Lab 7 Task.genruntimeconfig.cache
+C:\Users\student\source\repos\Lab 7 Task\Lab 7 Task\obj\Debug\net6.0\ref\Lab 7 Task.dll
