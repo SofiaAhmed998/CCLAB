@@ -1,0 +1,12 @@
+C:\Users\students.CSCOM-LAB2\Desktop\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Users\students.CSCOM-LAB2\Desktop\Question2\Question2\obj\Debug\Question2.csprojResolveAssemblyReference.cache
+C:\Users\students.CSCOM-LAB2\Desktop\Question2\Question2\obj\Debug\Question2.Form1.resources
+C:\Users\students.CSCOM-LAB2\Desktop\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Users\students.CSCOM-LAB2\Desktop\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.Cache
+C:\Users\students.CSCOM-LAB2\Desktop\Question2\Question2\bin\Debug\Question2.exe
+C:\Users\students.CSCOM-LAB2\Desktop\Question2\Question2\bin\Debug\Question2.pdb
+C:\Users\students.CSCOM-LAB2\Desktop\Question2\Question2\obj\Debug\Question2.exe
+C:\Users\students.CSCOM-LAB2\Desktop\Question2\Question2\obj\Debug\Question2.pdb
+C:\Users\students.CSCOM-LAB2\Desktop\Mid-LAB\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Users\students.CSCOM-LAB2\Desktop\Mid-LAB\Question2\Question2\obj\Debug\Question2.exe
+C:\Users\students.CSCOM-LAB2\Desktop\Mid-LAB\Question2\Question2\obj\Debug\Question2.pdb

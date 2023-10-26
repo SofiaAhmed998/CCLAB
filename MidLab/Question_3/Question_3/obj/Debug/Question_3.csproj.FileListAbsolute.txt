@@ -1,0 +1,16 @@
+C:\Users\students.CSCOM-LAB2\Desktop\Question_3\Question_3\bin\Debug\Question_3.exe.config
+C:\Users\students.CSCOM-LAB2\Desktop\Question_3\Question_3\bin\Debug\Question_3.exe
+C:\Users\students.CSCOM-LAB2\Desktop\Question_3\Question_3\bin\Debug\Question_3.pdb
+C:\Users\students.CSCOM-LAB2\Desktop\Question_3\Question_3\obj\Debug\Question_3.Form1.resources
+C:\Users\students.CSCOM-LAB2\Desktop\Question_3\Question_3\obj\Debug\Question_3.Properties.Resources.resources
+C:\Users\students.CSCOM-LAB2\Desktop\Question_3\Question_3\obj\Debug\Question_3.csproj.GenerateResource.Cache
+C:\Users\students.CSCOM-LAB2\Desktop\Question_3\Question_3\obj\Debug\Question_3.exe
+C:\Users\students.CSCOM-LAB2\Desktop\Question_3\Question_3\obj\Debug\Question_3.pdb
+C:\Users\students.CSCOM-LAB2\Desktop\MidLab\Question_3\Question_3\bin\Debug\Question_3.exe.config
+C:\Users\students.CSCOM-LAB2\Desktop\MidLab\Question_3\Question_3\obj\Debug\Question_3.exe
+C:\Users\students.CSCOM-LAB2\Desktop\MidLab\Question_3\Question_3\obj\Debug\Question_3.pdb
+C:\Users\students.CSCOM-LAB2\Desktop\MidLab\Question_3\Question_3\bin\Debug\Question_3.exe
+C:\Users\students.CSCOM-LAB2\Desktop\MidLab\Question_3\Question_3\bin\Debug\Question_3.pdb
+C:\Users\students.CSCOM-LAB2\Desktop\MidLab\Question_3\Question_3\obj\Debug\Question_3.Form1.resources
+C:\Users\students.CSCOM-LAB2\Desktop\MidLab\Question_3\Question_3\obj\Debug\Question_3.Properties.Resources.resources
+C:\Users\students.CSCOM-LAB2\Desktop\MidLab\Question_3\Question_3\obj\Debug\Question_3.csproj.GenerateResource.Cache
